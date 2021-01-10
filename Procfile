@@ -1,1 +1,1 @@
-worker:main.sh
+worker:download
